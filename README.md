@@ -63,8 +63,8 @@ Exact numbers may vary slightly by library version. The notebook prints the full
 ## Setup and usage
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/sharmarichaa/Hate-Speech-Detection-System
+cd Hate-Speech-Detection-System
 python -m venv venv
 venv\Scripts\activate        # Windows (use: source venv/bin/activate on macOS/Linux)
 pip install -r requirements.txt
